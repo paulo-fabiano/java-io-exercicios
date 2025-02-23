@@ -1,4 +1,4 @@
-package Scanner;
+package scanner;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -64,7 +64,7 @@ import java.util.Scanner;
 //};
 
 /*
-        Vamos otimizar esse código agora. Depois de ver o que poderia ser otimizado, então resolvi otimizar por conta próprio
+        Vamos otimizar esse código agora. Depois de ver o que poderia ser otimizado, então resolvi otimizar por conta própria
         Acredito que ficou muito bom!
  */
 
